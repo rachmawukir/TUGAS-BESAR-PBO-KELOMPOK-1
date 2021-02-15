@@ -1,11 +1,11 @@
-#Tugas Besar Praktikum Pemrograman Berbasis Objek
+# Tugas Besar Praktikum Pemrograman Berbasis Objek
 ![](https://www.google.com/search?q=LOGO+ITTP&safe=strict&sxsrf=ALeKk00a90c9yddudcZrkC4AFfkiDInJPA:1613382896141&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQq6TTz-vuAhVc73MBHdoPBh8Q_AUoAXoECA8QAw&biw=1366&bih=657#imgrc=Dz2VnnwD8qkVCM)
 
-##Anggota Kelompok
+## Anggota Kelompok
 S1S303B Software Engineering
-Andra Aulia Rizaldy         - 19104062
-Mohammad Fikri Nur Syahbani - 19104055
-Rachma Wukir Purwitasari    - 19104065
+1. Andra Aulia Rizaldy         - 19104062
+2. Mohammad Fikri Nur Syahbani - 19104055
+3. Rachma Wukir Purwitasari    - 19104065
 
 ## Latar Belakang
 Dimasa pandemi saat ini banyak orang yang tidak memiliki perkejaan. banyak pula yang sulit untuk bepergian, maka dari itu saya berserta tim ingin mewujudkan program tiket travel. Dilandasi dengan kasih sayang serta cinta yang tulus. kami hadirkan program ini dengan hati untuk mewujudkan masyarakat hidup aman damai sentosa sehingga mudah untuk melaksanakan aktivitas diluar rumah dengan aman nyaman dan tentram.
