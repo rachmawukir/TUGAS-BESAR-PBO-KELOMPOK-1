@@ -1,5 +1,5 @@
 # Tugas Besar Praktikum Pemrograman Berbasis Objek
-![](https://www.google.com/search?q=LOGO+ITTP&safe=strict&sxsrf=ALeKk00a90c9yddudcZrkC4AFfkiDInJPA:1613382896141&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQq6TTz-vuAhVc73MBHdoPBh8Q_AUoAXoECA8QAw&biw=1366&bih=657#imgrc=Dz2VnnwD8qkVCM)
+<img src = "https://github.com/rachmawukir/LOGO/blob/main/LOGO%20ITTP.png">
 
 ## Anggota Kelompok
 S1S303B Software Engineering
