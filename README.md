@@ -25,3 +25,4 @@ Kami memiliki beberapa fitur yang bisa anda dapatkan :
 Program yang kami buat adalah tentang Travel Tiket, Merupakan program yang digunakan untuk memesan tiket dimana terdapat didalamnya tambah penumpang beserta biodata penumpang, serta menu order saat ingin memesan travel ini. setelah itu terdapat menu cetak yang berguna untuk menampilkan semua hasil yang telah disimpan.
 
 ## Class Diagram
+<img src = "">
