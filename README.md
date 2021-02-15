@@ -37,7 +37,7 @@ Program yang kami buat adalah tentang Travel Tiket, Merupakan program yang digun
 <img src = "https://github.com/rachmawukir/TUGAS-BESAR-PBO-KELOMPOK-1/blob/main/Implementasi-Program.gif">
 
 ## Package Yang Digunakan
-
+https://github.com/rachmawukir/TUGAS-BESAR-PBO-KELOMPOK-1/blob/main/TICKET%20TRAVEL/TicketTravel.js
 
 ## Demo Project & Video Penjelasan
 
